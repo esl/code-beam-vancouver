@@ -1,0 +1,101 @@
+title: Code BEAM Lite Stockholm
+description: > # this means to ignore newlines until "baseurl:"
+  Code BEAM Lite Stockholm is the premier Erlang, Elixir and Gleam conference in the Nordics - one day of first-rate BEAM-related talks.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://codebeamstockholm.com" # the base hostname & protocol for your site
+
+logo: "./assets/images/logo2022.png"
+
+# google_site_verification: googleXXXXXXXXXXXXXXXX.html
+
+include: [archive]
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/codebeamio
+    username: codebeamio
+    card: image
+  - title: bluesky
+    url: https://bsky.app/profile/codebeam.bsky.social
+    username: codebeamio
+    card: image
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  participants:
+    output: true
+  testimonials:
+    output: true
+  keynotes:
+    output: true
+  trainers:
+    output: true
+  trainings:
+    output: true
+  talks:
+    output: true
+  posts:
+    output: true
+  videos:
+    output: true
+#  archive:
+#    output: true
+  tickets:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "participants"
+    values:
+      layout: "participant"
+  - scope:
+      path: ""
+      type: "trainings"
+    values:
+      layout: "training"
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "keynotes"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "videos"
+    values:
+      layout: "video"
+#  - scope:
+#      path: ""
+#      type: "archives"
+#    values:
+#      layout: "archive"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Google Map JS api
+# This is my api for this template
+key-api: AIzaSyBf-F7nBzxi_73uI9QUxRQ-cNihYtlZ_AA
+map-text: 7A Odenplan
+map-text-location: Norrtullsgatan 6, 113 26 Stockholm, Sweden
+map-lat: 59.34252302986197
+map-lng: 18.051692626812088

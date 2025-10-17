@@ -1,10 +1,10 @@
-title: Code BEAM Lite Stockholm
+title: Code BEAM Lite Vancouver
 description: > # this means to ignore newlines until "baseurl:"
-  Code BEAM Lite Stockholm is the premier Erlang, Elixir and Gleam conference in the Nordics - one day of first-rate BEAM-related talks.
+  Code BEAM Lite Vancouver is the premier Erlang, Elixir and Gleam conference in Canada - one day of first-rate BEAM-related talks.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codebeamstockholm.com" # the base hostname & protocol for your site
+url: "https://codebeamvancouver.com" # the base hostname & protocol for your site
 
-logo: "./assets/images/logo2022.png"
+logo: "./assets/images/CBL Vancouver logo.svg"
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html
 
@@ -95,7 +95,7 @@ defaults:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyBf-F7nBzxi_73uI9QUxRQ-cNihYtlZ_AA
-map-text: 7A Odenplan
-map-text-location: Norrtullsgatan 6, 113 26 Stockholm, Sweden
-map-lat: 59.34252302986197
-map-lng: 18.051692626812088
+map-text: VIFF Centre
+map-text-location: 1181 Seymour St, Vancouver, BC V6B 3M7, Canada
+map-lat: 49.27720036291845
+map-lng: -123.12486361641874

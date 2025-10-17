@@ -26,10 +26,10 @@
 #  link: "training"
 # name: Call for Talks
 #  link: "cft"
-- name: Support Programme
-  link: "diversity"
-- name: Volunteer
-  link: "volunteer"
+# name: Support Programme
+#  link: "diversity"
+# name: Volunteer
+#  link: "volunteer"
 #- name: Hotels
 #  link: "hotels"
 #- name: COVID-19 safety

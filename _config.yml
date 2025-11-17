@@ -1,6 +1,5 @@
-title: Code BEAM Lite Vancouver
 description: > # this means to ignore newlines until "baseurl:"
-  Code BEAM Lite Vancouver is the premier Erlang, Elixir and Gleam conference in Canada - one day of first-rate BEAM-related talks.
+  The premier Erlang, Elixir and Gleam conference in Canada - full day of first-rate BEAM-related talks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codebeamvancouver.com" # the base hostname & protocol for your site
 

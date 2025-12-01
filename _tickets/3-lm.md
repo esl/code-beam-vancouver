@@ -1,8 +1,8 @@
 ---
-title: 'STANDARD TICKET'
-price: '349 CAD'
-discount: 'Full-price Conference Pass'
-description: "Available from February 5th until March 11th or until they sell out"
+title: 'LAST MINUTE TICKET'
+price: '499 CAD'
+discount: 'Last Minute Conference Pass'
+description: "Available from March 12th until the conference day or until they sell out"
 link: '/#newsletter'
 conditions:
   - "The conference ticket doesn't include training sessions."

@@ -1,9 +1,9 @@
 ---
 title: 'EARLY BIRD TICKET'
 price: '249 CAD'
-discount: '1-Day Conference Pass'
-description: "Get the full Code BEAM experience by joining us in Vancouver!"
-link: 'https://codebeamstockholm.com/#newsletter'
+discount: 'Discounted conference Pass'
+description: "Available from December 17th, 2025 to February 4th 2026 or until they sell out"
+link: '/#newsletter'
 conditions:
   - "The conference ticket doesn't include training sessions."
 ---

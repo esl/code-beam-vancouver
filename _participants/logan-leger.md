@@ -1,7 +1,7 @@
 ---
 name: Logan Leger
 pic_url: "/assets/images/speakers/logan-leger.jpeg"
-tagline: VP of Engineering at Hiive
+tagline: VP of Engineering at Hiive, Vancouver Erlang & Elixir meetup organizer
 linkedin: /in/loganleger/
 twitter: lleger
 

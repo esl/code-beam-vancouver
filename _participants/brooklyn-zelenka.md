@@ -5,6 +5,7 @@ tagline: Founder of Fission, Code & Coffee, BEAM Vancouver, and Vancouver Functi
 github: expede
 linkedin: /in/brooklynzelenka/
 bluesky: @expede.wtf
+mastodon: https://types.pl/@expede
 
 ---
 Brooklyn is a distributed systems researcher, and is currently leading a local-first access control project at Ink & Switch. She is the author of numerous Elixir libraries including Witchcraft & Exceptional, and founded the Vancouver Functional Programming Meetup.

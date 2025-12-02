@@ -26,6 +26,8 @@
 #  link: "training"
 - name: Call for Talks
   link: "cft"
+- name: Programme Committee
+  link: "members"
 # name: Support Programme
 #  link: "diversity"
 # name: Volunteer
@@ -42,7 +44,5 @@
   link: "venue"
 - name: Sponsors
   link: "sponsors"
-# name: Programme Committee
-#  link: "members"
 - name: Contact
   link: "contact"

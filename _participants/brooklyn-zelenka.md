@@ -4,7 +4,7 @@ pic_url: "/assets/images/speakers/brooklyn_zelenka.jpeg"
 tagline: Founder of Fission, Code & Coffee, BEAM Vancouver, and Vancouver Functional Programmers meetup
 github: expede
 linkedin: /in/brooklynzelenka/
-bluesky: @expede.wtf
+bluesky: expede.wtf
 mastodon: https://types.pl/@expede
 
 ---

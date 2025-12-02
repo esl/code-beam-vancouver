@@ -2,7 +2,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The premier Erlang, Elixir and Gleam conference in Canada - full day of first-rate BEAM-related talks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codebeamvancouver.com" # the base hostname & protocol for your site
-
+title: Code BEAM Lite Vancouver
 logo: "./assets/images/CBL Vancouver 2025 logo-white.png"
 
 # google_site_verification: googleXXXXXXXXXXXXXXXX.html

@@ -40,6 +40,14 @@
 #  link: "shop"
 #- name: Blog
 #  link: "blog"
+- name: Join us
+  children:
+    - name: Volunteer
+      link: "volunteer"
+    - name: Get support
+      link: "diversity"
+    - name: Sponsor
+      link: "banner-1"
 - name: Venue
   link: "venue"
 - name: Sponsors

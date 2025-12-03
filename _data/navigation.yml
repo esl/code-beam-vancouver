@@ -2,6 +2,10 @@
 #  link: "cover"
 - name: About
   link: "welcome"
+- name: Call for Talks
+  link: "cft"
+- name: Programme Committee
+  link: "members"
 - name: Tickets
   link: "tickets"
 - name: 2026 Waiting List
@@ -24,10 +28,6 @@
 #  link: "trainers"
 # name: Training
 #  link: "training"
-- name: Call for Talks
-  link: "cft"
-- name: Programme Committee
-  link: "members"
 # name: Support Programme
 #  link: "diversity"
 # name: Volunteer

@@ -1,11 +1,17 @@
 #- name: Home
 #  link: "cover"
 - name: About
-  link: "welcome"
+  children:
+    - name: What is this about?
+      link: "welcome"
+    - name: Programme Committee
+      link: "members"
+    - name: Venue
+      link: "venue"
+    - name: Testimonials
+      link: "testimonials-carousel-quotes"
 - name: Call for Talks
   link: "cft"
-- name: Programme Committee
-  link: "members"
 - name: Tickets
   link: "tickets"
 - name: 2026 Waiting List
@@ -48,8 +54,6 @@
       link: "diversity"
     - name: Sponsor
       link: "banner-1"
-- name: Venue
-  link: "venue"
 - name: Sponsors
   link: "sponsors"
 - name: Contact

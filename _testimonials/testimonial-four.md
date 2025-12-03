@@ -1,7 +1,7 @@
 ---
 name: Anonymous
-role: 2022 Survey
+role: 2024 Code BEAM Lite NYC Survey
 profile_pic: /assets/images/testimonials/4.png
 ---
 
-The social mood of this community is always refreshing, wonderfully international and dynamic.
+A fantastic vibe with welcoming and easy-going folks that love what they do and love sharing and lifting up those around them.

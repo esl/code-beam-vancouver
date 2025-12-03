@@ -1,7 +1,7 @@
 ---
 name: Anonymous
-role: 2023 Survey
+role: 2024 Code BEAM Lite Stockholm Survey
 profile_pic: /assets/images/testimonials/1.png
 ---
 
-Code BEAM Europe is a meeting ground for the whole BEAM community.
+Code BEAM Lite is keeping the traditions and providing a platform for the BEAM community to share ideas, discussions, meet with friends and colleagues.

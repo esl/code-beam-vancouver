@@ -46,6 +46,10 @@
 #  link: "shop"
 #- name: Blog
 #  link: "blog"
+- name: Sponsors
+  link: "sponsors"
+- name: Contact
+  link: "contact"
 - name: Join us
   children:
     - name: Volunteer
@@ -54,7 +58,3 @@
       link: "diversity"
     - name: Sponsor
       link: "banner-1"
-- name: Sponsors
-  link: "sponsors"
-- name: Contact
-  link: "contact"

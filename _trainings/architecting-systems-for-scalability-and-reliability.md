@@ -11,6 +11,8 @@ trainers:
 Learn how to architect fault-tolerant, scalable, soft, real-time systems with requirements for high availability.
 In this tutorial, we will look at the theory needed to design scalable and resilient systems. The lessons learnt apply to the Erlang ecosystem, Elixir included, but are in fact technology agnostic and could be applied to most stacks, including Scala/AKKA, .net and others. We will not dive into libraries, but concepts, ideas and approaches which have been used to get the job done.
 
+This is a theoretical course which covers the why of the BEAM, not the what or the how. It is not connected to any tool or programming language, and there are no hands-on exercises. The lectures are filled with real-world examples which illustrate the strengths of the BEAM, and delegates are encouraged to participate with their own.
+
 **DURATION:**
 * 8 hours
 

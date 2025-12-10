@@ -3,10 +3,10 @@ experience:
 - Intermediate
 name: Secure coding on the BEAM
 type: tutorial
-venue: Estrel
+venue: TBC
 trainers:
 - _participants/robert-virding.md
-event_date: 4 Nov 2025
+event_date:
 title: "Secure Coding on the BEAM"
 published: true
 

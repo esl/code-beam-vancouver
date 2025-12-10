@@ -3,8 +3,8 @@ experience:
 - Intermediate
 title: "Architecting Systems for Scalability and Reliability"
 type: tutorial
-event_date: 4 Nov 2025
-venue: Estrel
+event_date: March 22, 2026
+venue: TBC
 trainers:
 - _participants/francesco-cesarini-new.md
 ---

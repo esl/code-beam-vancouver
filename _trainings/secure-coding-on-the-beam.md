@@ -1,13 +1,12 @@
 ---
 experience:
 - Intermediate
-name: Secure coding on the BEAM
+title: "Secure coding on the BEAM"
 type: tutorial
 venue: TBC
 trainers:
 - _participants/robert-virding.md
-event_date:
-title: "Secure Coding on the BEAM"
+event_date: March 24, 2026
 published: true
 
 ---

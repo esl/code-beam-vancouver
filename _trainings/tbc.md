@@ -1,7 +1,7 @@
 ---
 experience:
 - Intermediate
-name: To be confirmed
+title: "To be confirmed"
 type: training
 trainers:
 - _participants/bruce-tate.md

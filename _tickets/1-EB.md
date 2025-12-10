@@ -2,7 +2,7 @@
 title: 'EARLY BIRD TICKET'
 price: '249 CAD'
 discount: 'Discounted conference Pass'
-description: "Available from February 5th until March 11th 2026 or until they sell out"
+description: "Available from 17 December until 4 February 2026 or until they sell out"
 link: '/#newsletter'
 conditions:
   - "The conference ticket doesn't include training sessions."

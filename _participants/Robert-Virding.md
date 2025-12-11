@@ -1,7 +1,7 @@
 ---
 name: Robert Virding
 pic_url: "/assets/images/robert-virding.jpeg"
-tagline: CoCreator of Erlang
+tagline: Co-Creator of Erlang
 github: rvirding
 twitter: rvirding
 

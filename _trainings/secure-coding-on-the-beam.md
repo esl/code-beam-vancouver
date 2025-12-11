@@ -7,7 +7,7 @@ venue: TBC
 trainers:
 - _participants/Robert-Virding.md
 event_date: March 24, 2026
-published: false
+published: true
 
 ---
 Are your Erlang and Elixir applications as secure as they could be? Dive into the world of secure coding on BEAM with Erlang’s co-creator Robert Virding to fortify your understanding of the BEAM platform's vulnerabilities, attacks, and defences.

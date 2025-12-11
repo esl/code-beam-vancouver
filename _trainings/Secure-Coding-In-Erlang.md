@@ -7,6 +7,7 @@ trainers:
 - _participants/Robert-Virding.md
 event_date: 14 May 2024, in person
 title: "Secure Coding In Erlang 1/2 day Tutorial"
+published: false
 
 ---
 

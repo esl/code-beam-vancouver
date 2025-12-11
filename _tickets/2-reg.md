@@ -6,6 +6,7 @@ description: "Available from 5 February until 11 March or until they sell out"
 link: '/#newsletter'
 conditions:
   - "The conference ticket doesn't include training sessions."
+  - "Prices don't include VAT and fees."
 ---
 
 ### FEATURES

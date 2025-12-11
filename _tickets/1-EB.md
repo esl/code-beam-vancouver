@@ -6,6 +6,7 @@ description: "Available from 17 December until 4 February 2026 or until they sel
 link: '/#newsletter'
 conditions:
   - "The conference ticket doesn't include training sessions."
+  - "Prices don't include VAT and fees."
 ---
 
 ### FEATURES

@@ -10,8 +10,8 @@
       link: "venue"
     - name: Testimonials
       link: "testimonials-carousel-quotes"
-- name: Call for Talks
-  link: "cft"
+#- name: Call for Talks
+#  link: "cft"
 - name: Tickets
   link: "tickets"
 - name: 2026 Waiting List
@@ -32,8 +32,8 @@
 #  link: "mentoring"
 - name: Trainers
   link: "trainers"
-# name: Training
-#  link: "training"
+- name: Training
+  link: "training"
 # name: Support Programme
 #  link: "diversity"
 # name: Volunteer

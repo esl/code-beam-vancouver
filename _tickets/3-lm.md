@@ -1,17 +1,16 @@
 ---
-title: 'LAST MINUTE TICKET'
-price: '499 CAD'
-discount: 'Last Minute Conference Pass'
-description: "Available from 12 March until the conference day or until they sell out"
+title: 'TUTORIAL TICKET'
+price: '550 CAD'
+discount: 'Ticket for 22 or 24 March tutorial'
+description: "Available from 8 Jan until 16 March or until they sell out"
 link: '/#newsletter'
 conditions:
-  - "The conference ticket doesn't include training sessions."
+  - "The tutorial ticket doesn't include the conference attendance."
   - "Prices don't include VAT and fees."
 ---
 
 ### FEATURES
 
-- Live access to all talks
-- Access to live Q&A sessions
-- Access to networking and exhibitors area at the venue
-- Lunch, coffee breaks and beverages
+- Access to a full-day tutorial of your choice (see the list of tutorials) on 22 or 24 March 2026.
+- Materials and/or instructions from trainers
+- Lunch and beverages during the tutorial day

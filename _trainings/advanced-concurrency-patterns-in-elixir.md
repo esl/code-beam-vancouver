@@ -3,6 +3,7 @@ experience:
 - Intermediate
 title: "Advanced Concurrency Patterns in Elixir"
 type: training
+venue: TBC
 trainers:
 - _participants/andrea-leopardi.md
 event_date: 24 March 2026

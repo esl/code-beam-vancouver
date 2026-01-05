@@ -1,5 +1,5 @@
 ---
-audience:
+level:
 - beginners
 tags:
 - Gleam

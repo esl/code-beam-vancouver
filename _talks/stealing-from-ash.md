@@ -3,7 +3,7 @@ tags:
 - Composition
 - Ash
 - DSL
-level: Addvaced
+level: Advanced
 title: "Stealing from Ash: Building Better DSLs in Elixir"
 speakers:
 - _participants/joseph-koski.md

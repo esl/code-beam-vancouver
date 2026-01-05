@@ -1,7 +1,7 @@
 ---
 title: 'MASTERCLASS TICKET'
 price: '550 CAD'
-discount: 'Ticket for 22 or 24 March masterclass'
+discount: 'Ticket for a 22 or 24 March training'
 description: "Available from 8 Jan until 16 March or until they sell out"
 link: '/#newsletter'
 conditions:

@@ -12,3 +12,6 @@ trainings:
   - training: _trainings/BEAM-VM-Under-the-Hood.md
     start: 2026-03-24T09:00:00 +0000
     end: 2026-03-24T17:00:00 +0000
+  - training: _trainings/advanced-functional-programming-in-elixir.md
+    start: 2026-03-24T09:00:00 +0000
+    end: 2026-03-24T17:00:00 +0000

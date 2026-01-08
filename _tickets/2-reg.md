@@ -3,7 +3,7 @@ title: 'STANDARD TICKET'
 price: '349 CAD'
 discount: 'Full-price Conference Pass'
 description: "Available from 5 February until 11 March or until they sell out"
-link: '/#newsletter'
+link: 'https://ti.to/code-beam/code-beam-lite-vancouver'
 conditions:
   - "The conference ticket doesn't include training sessions."
   - "Prices don't include VAT and fees."

@@ -1,7 +1,7 @@
 ---
 title: 'MASTERCLASS TICKET'
 price: '550 CAD'
-discount: 'Ticket for a 22 or 24 March training'
+discount: 'Ticket for a 22 or 24 March course'
 description: "Available from 8 Jan until 16 March or until they sell out"
 link: 'https://ti.to/code-beam/code-beam-lite-vancouver'
 conditions:

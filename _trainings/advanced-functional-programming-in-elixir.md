@@ -14,7 +14,9 @@ We'll use monoids when the problem is “combine these things,” with clear gua
 
 This is not about memorizing abstractions or adopting a library. It is about recognizing problem shapes, choosing a small composable pattern, and using it to make illegal states and illegal transitions hard to express.
 
+
 **COURSE OBJECTIVES**
+
 Participants will explore:
 
 * Functional Decomposition: breaking down problems into small composable behaviors
@@ -22,8 +24,11 @@ Participants will explore:
 * Lawfulness: learning to leverage lawful patterns to make illegal states unrepresentable
 * Functional Control: going beyond if/else control flow
 
+
 **TARGET AUDIENCE**
+
 Elixir developers who are curious about functional programming patterns: what to learn first, how the ideas fit together, and how they help solve real-world problems as systems grow.
+
 
 **COURSE TAKEWAYS**
 1. A mental map of functional programming patterns: what to learn first, how they fit together, and why they matter.

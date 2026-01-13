@@ -1,8 +1,8 @@
 ---
 name: Hayleigh Thompson
 pic_url: "/assets/images/hayleigh-thompson.jpeg"
-tagline: I have an unpublished package for that.
-github: ''
+tagline: Gleam Core Team Member & Lustre Maintainer
+github: 'hayleigh-dot-dev'
 twitter: hayleighdotdev
 
 ---

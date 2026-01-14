@@ -5,6 +5,7 @@ level: All levels
 title: "Towards More Literate ExUnit Tests: Introducing Machete"
 speakers:
 - _participants/mat-trudel.md
+published: false
 
 ---
 For the reformed Rubyists in the crowd, the name 'RSpec' likely conjures up equal parts longing and frustration. When used well, RSpec can make your tests read like magic. When used badly, well, let’s just say that many of us are glad to no longer be working in Ruby.

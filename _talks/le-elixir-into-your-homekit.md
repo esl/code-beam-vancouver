@@ -1,6 +1,8 @@
 ---
 tags:
-- testing
+- Elixir
+- HAP
+- HomeKit
 level: Beginners, Intermediate
 title: "Let Elixir into your Home(Kit)"
 speakers:
@@ -8,4 +10,12 @@ speakers:
 published: true
 
 ---
-HAP is the cherry on top of a multi-year yak shave I’ve been undertaking to control an air conditioner in our house with Elixir. Along the way I’ve built a couple of interesting libraries, including the Bandit web server that I presented at ElixirConf 2021. I’ve had HAP devices doing useful things in my house for the past year or so, and have had enough interest and participation that I think it’s a fairly broadly relevant and useful library for people to be aware of, which is what I’m hoping to do here.
+This talk introduces HAP, an Elixir library that allows you to add HomeKit support to Elixir applications, allowing them to be controlled directly from the native UI built into every iOS device. The HomeKit standard supports a wide variety of devices types such as lighting, HVAC control, security systems, and a great many more. HAP lets your embedded app look like any of these device types within the HomeKit ecosystem, giving you some serious UI superpowers for very little effort.
+
+We’ll be introducing HAP and also taking a number of diversions along the way:
+
+* Examples of working with low-level cryptography in Elixir
+* Useful patterns for supervising library-based processes
+* A 10000’ foot overview of hardware control in Nerves
+* Binary pattern matching for fun & profit
+* Amateur-level on-stage theatrics

@@ -1,6 +1,6 @@
 homepage_settings:
   countdown:
-    show: false
+    show: true
     timezone: Europe/Berlin
     deadline: 2024-10-14 12:00
   modal:

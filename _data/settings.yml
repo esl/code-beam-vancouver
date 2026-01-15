@@ -1,8 +1,8 @@
 homepage_settings:
   countdown:
     show: true
-    timezone: Europe/Berlin
-    deadline: 2024-10-14 12:00
+    timezone: Canada/Vancouver
+    deadline: 2024-02-04 12:00
   modal:
     show: false
     delay: 5000

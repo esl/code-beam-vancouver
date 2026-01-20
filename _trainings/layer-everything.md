@@ -1,7 +1,7 @@
 ---
 experience:
 - Intermediate
-title: "Beyond Vibe coding: Layered AI prompts and Elixir code to achieve better outcomes"
+title: "Beyond Vibe Coding: Layered AI Prompts and Elixir Code to Achieve Better Outcomes"
 type: tutorial
 event_date: March 24, 2026
 venue: TBC

@@ -1,7 +1,7 @@
 ---
 experience:
 - Intermediate
-title: "Layer Everything: Engineer more and vibe less by using layering techniques in Elixir and AI prompts"
+title: "Beyond Vibe coding: Layered AI prompts and Elixir code to achieve better outcomes"
 type: tutorial
 event_date: March 24, 2026
 venue: TBC

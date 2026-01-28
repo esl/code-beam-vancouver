@@ -1,7 +1,7 @@
 ---
 title: 'LAST MINUTE TICKET'
 price: '499 CAD'
-discount: 'Conference Pass'
+discount: 'Late Conference Pass'
 description: "Available from 12 March until the conference day or until they sell out"
 link: 'https://ti.to/code-beam/code-beam-lite-vancouver'
 conditions:

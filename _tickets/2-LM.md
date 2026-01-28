@@ -1,8 +1,8 @@
 ---
-title: 'EARLY BIRD TICKET'
-price: '249 CAD'
-discount: 'Discounted conference Pass'
-description: "Available from 8 January for the waiting list / from 15 January for the public until 4 February 2026 or until they sell out"
+title: 'LAST MINUTE TICKET'
+price: '499 CAD'
+discount: 'Conference Pass'
+description: "Available from 12 March until the conference day or until they sell out"
 link: 'https://ti.to/code-beam/code-beam-lite-vancouver'
 conditions:
   - "The conference ticket doesn't include training sessions."

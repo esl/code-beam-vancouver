@@ -2,9 +2,9 @@
 name: Yutaka Kikuchi
 pic_url: "/assets/images/speakers/Yutaka-KIKUCHI.png"
 tagline: Prof of Kochi Tech & Founder of IX-layers
-github: '@kikuyuta'
+github: 'kikuyuta'
 twitter: kikuyuta
-buesky: kikuyuta.bsky.social
+bluesky: kikuyuta.bsky.social
 linkedin: 'in/kikuyuta/'
 
 ---

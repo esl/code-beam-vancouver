@@ -2,7 +2,7 @@ homepage_settings:
   countdown:
     show: true
     timezone: Canada/Vancouver
-    deadline: 2026-03-11 23:59
+    deadline: 2026-02-15 23:59
   modal:
     show: false
     delay: 5000

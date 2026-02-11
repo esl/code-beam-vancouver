@@ -1,8 +1,8 @@
 ---
-title: 'STANDARD TICKET'
-price: '349 CAD'
-discount: 'Full-price Conference Pass'
-description: "Available from 5 February until 11 March or until they sell out"
+title: '2-for-1 TICKET'
+price: '174.50 CAD'
+discount: 'Valentines promotion: buy one, get one for free!'
+description: "Available from 11 until 15 February"
 link: 'https://ti.to/code-beam/code-beam-lite-vancouver'
 conditions:
   - "The conference ticket doesn't include training sessions."

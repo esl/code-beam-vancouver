@@ -6,6 +6,7 @@ trainers:
 - _participants/Robert-Virding.md
 event_date: March 24, 2026
 title: "BEAM VM Under the Hood"
+venue: 980 Howe St, the Rooftop Boardroom
 
 ---
 Everything you wanted to know about the BEAM but were afraid to ask! Through examples and hands-on exercises, we will showcase how to manage the BEAM VM in operational environments, optimising for memory utilisation and performance when using Erlang or Elixir.

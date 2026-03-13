@@ -4,7 +4,7 @@ experience:
 title: "Beyond Vibe Coding: Layered AI Prompts and Elixir Code to Achieve Better Outcomes"
 type: tutorial
 event_date: March 24, 2026
-venue: TBC
+venue: Best Western Premier Chateau Granville Hotel, Georgia boardroom
 trainers:
 - _participants/bruce-tate.md
 ---

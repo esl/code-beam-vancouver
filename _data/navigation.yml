@@ -52,10 +52,10 @@
   link: "contact"
 - name: Join us
   children:
-    - name: Volunteer
-      link: "volunteer"
-    - name: Get support
-      link: "diversity"
+#    - name: Volunteer
+#      link: "volunteer"
+#    - name: Get support
+#      link: "diversity"
     - name: Sponsor
       link: "banner-1"
     - name: Stay informed

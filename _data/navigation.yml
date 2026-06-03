@@ -6,14 +6,14 @@
       link: "welcome"
     - name: Programme Committee
       link: "members"
-    - name: Venue & Accommodation
+    - name: Venue
       link: "venue"
     - name: Testimonials
       link: "testimonials-carousel-quotes"
 #- name: Call for Talks
 #  link: "cft"
-- name: Tickets
-  link: "tickets"
+#- name: Tickets
+#  link: "tickets"
 #- name: 2026 Waiting List
 #  link: "newsletter"
 #- name: Call for Tutorials
@@ -50,13 +50,15 @@
   link: "sponsors"
 - name: Contact
   link: "contact"
-- name: Join us
-  children:
+- name: Stay in touch
+  link: "newsletter"
+#- name: Join us
+#  children:
 #    - name: Volunteer
 #      link: "volunteer"
 #    - name: Get support
 #      link: "diversity"
-    - name: Sponsor
-      link: "banner-1"
-    - name: Stay informed
-      link: "newsletter"
+#    - name: Sponsor
+#      link: "banner-1"
+#    - name: Stay informed
+#      link: "newsletter"

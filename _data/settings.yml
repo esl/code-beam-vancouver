@@ -4,7 +4,7 @@ homepage_settings:
     timezone: Canada/Vancouver
     deadline: 2026-03-23 09:00
   modal:
-    show: false
+    show: true
     delay: 5000
   testimonials:
     show: true
